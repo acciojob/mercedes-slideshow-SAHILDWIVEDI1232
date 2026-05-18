@@ -1,6 +1,6 @@
 
 import React from "react";
-import ImageSlider from"./ImageSlider.js"
+import ImageSlider from"./ImageSlider.jsx"
 import './../styles/App.css';
 
 const App = () => {
